@@ -1,4 +1,4 @@
-# Html-Baisc
+# Html-Basic
 Html Basic with deployment(Bootcamp)
 List added
 
